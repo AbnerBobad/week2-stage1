@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"week2-stage1/internal/data"
-	"week2-stage1/internal/data/validator"
+	"week2-stage1/internal/validator"
 )
 
 func (app *application) createReportHandler(w http.ResponseWriter, r *http.Request) {
