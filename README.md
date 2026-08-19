@@ -1,5 +1,14 @@
 # Advanced Web Technologies Week 2 Lab Stage 1
 - This Lab is based on Measuring a Synchronous API Contract
+-- Abner Bobadilla & Christian Hope
+
+
+## Lab Report
+
+| Format | Link |
+|---|---|
+| Google Docs (view) | [Open][View report (Google Docs)](https://docs.google.com/document/d/1HETA4iRyaVHTDELxj4mEv5Yx82j1WhMMZvq4V_XUhSk/edit?usp=sharing) |
+| PDF (download) | [Download](./lab1/CMPS4191%20•%20LABORATORY%201_AB_CH.pdf) |
 
 ## Project structure
  
