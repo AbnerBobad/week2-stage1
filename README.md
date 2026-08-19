@@ -1,2 +1,2 @@
-# week2-stage1
-Advance Web Technology Week 2 Stage 1 Starter Code
+## Advanced Web Technologies Week 2 Lab
+- This Lab is based on Measuring a Synchronous API Contract
